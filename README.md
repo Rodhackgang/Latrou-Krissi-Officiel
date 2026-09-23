@@ -1,51 +1,66 @@
-# Welcome to your Expo app 👋
+<div align="center">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Latrou%20Krissi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Projet%20initialise&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="Latrou Krissi" />
 
-## Get started
+<p>
+  <img src="https://img.shields.io/badge/Projet%20initialise-8B949E?style=flat-square" alt="Projet initialise" />
+  <img src="https://img.shields.io/github/languages/top/Rodhackgang/Latrou-Krissi-Officiel?style=flat-square&color=6B7280" alt="Langage principal" />
+  <img src="https://img.shields.io/github/last-commit/Rodhackgang/Latrou-Krissi-Officiel?style=flat-square&color=6B7280&label=dernier%20commit" alt="Dernier commit" />
+  <img src="https://img.shields.io/github/repo-size/Rodhackgang/Latrou-Krissi-Officiel?style=flat-square&color=6B7280&label=taille" alt="Taille" />
+</p>
 
-1. Install dependencies
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+</p>
 
-   ```bash
-   npm install
-   ```
+</div>
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## Présentation
 
-In the output, you'll find options to open the app in a
+Projet mobile initialisé avec Expo Router. Le squelette est en place ; le code métier reste à écrire.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+> [!NOTE]
+> **État du dépôt.** Ce projet est initialisé mais son code métier n'est pas
+> encore écrit : l'arborescence correspond au modèle de départ d'Expo Router.
+> Il est publié tel quel, sans prétendre à davantage.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## Stack
 
-When you're ready, run:
+<div align="center">
+
+<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="Expo" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+
+</div>
+
+---
+
+## Démarrage
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+<div align="center">
 
-To learn more about developing your project with Expo, look at the following resources:
+### Développé par Rodrigue SAMA
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+<a href="https://github.com/Rodhackgang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://wa.me/22677701726"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:Samarodrigue690@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-## Join the community
+<sub>Ouagadougou, Burkina Faso 🇧🇫</sub>
 
-Join our community of developers creating universal apps.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="" />
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# Latrou-Krissi-Officiel
+</div>
